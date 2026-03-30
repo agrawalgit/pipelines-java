@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/shrawankumarlab1/DevProject/_apis/build/status%2Fagrawalgit.pipelines-java?branchName=main)](https://dev.azure.com/shrawankumarlab1/DevProject/_build/latest?definitionId=41&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
